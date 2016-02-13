@@ -1,9 +1,9 @@
 {
   "name": "improved-chester-atom-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-  "description": "A pretty Atom syntax theme based on Lonely Planet colours",
-  "repository": "https://github.com/csutter/chester-atom-syntax",
+  "version": "0.1.2",
+  "description": "Fork of chester-atom-syntax (https://github.com/csutter/chester-atom-syntax)",
+  "repository": "https://github.com/RuslanIsrafilov/chester-atom-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
